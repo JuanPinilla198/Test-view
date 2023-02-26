@@ -44,7 +44,7 @@ class App extends React.Component {
   render() {
       return(<KanbanComponent dataSource={this.kanbanRemoteDatasource} keyField="Status"
 
-      cardSettings={{contentField:"Summary", headerField:"Id", selectionType:"Multiple"}}  swimlaneSettings={{keyField:"Assignee"}}
+      cardSettings={{contentField:"Summary", headerField:"Id", selectionType:"Multiple"}}
       enableTooltip={true} tooltipTemplate={this.cardTooltipTemplate}>
 
         <ColumnsDirective>
