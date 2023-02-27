@@ -21,11 +21,32 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: green;
 }
 
 .App-link {
   color: #61dafb;
+}
+
+.e-kanban .e-kanban-table {
+  padding-left: 20px;
+  margin-bottom: 20px;
+}
+
+.e-card .e-card-header .e-card-header-caption .e-card-sub-title  {
+  font-size: 20px;
+  font-variant: all-petite-caps;
+}
+
+.e-card .e-card-header .e-card-header-caption .e-card-header-title  {
+  font-size: large;
+  font-style: normal;
+  color: rgb(204, 152, 40);
+}
+
+.e-card .e-card-header {
+  font-style: italic;
+  font-family: cursive;
 }
 
 @keyframes App-logo-spin {
