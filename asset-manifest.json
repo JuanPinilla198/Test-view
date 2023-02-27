@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kanban-view-test/static/css/main.073c9b0a.css",
-    "main.js": "/kanban-view-test/static/js/main.e0305ebf.js",
-    "static/js/787.aeb0f137.chunk.js": "/kanban-view-test/static/js/787.aeb0f137.chunk.js",
-    "index.html": "/kanban-view-test/index.html",
-    "main.073c9b0a.css.map": "/kanban-view-test/static/css/main.073c9b0a.css.map",
-    "main.e0305ebf.js.map": "/kanban-view-test/static/js/main.e0305ebf.js.map",
-    "787.aeb0f137.chunk.js.map": "/kanban-view-test/static/js/787.aeb0f137.chunk.js.map"
+    "main.css": "/Test-view/static/css/main.073c9b0a.css",
+    "main.js": "/Test-view/static/js/main.21f4a738.js",
+    "static/js/787.aeb0f137.chunk.js": "/Test-view/static/js/787.aeb0f137.chunk.js",
+    "index.html": "/Test-view/index.html",
+    "main.073c9b0a.css.map": "/Test-view/static/css/main.073c9b0a.css.map",
+    "main.21f4a738.js.map": "/Test-view/static/js/main.21f4a738.js.map",
+    "787.aeb0f137.chunk.js.map": "/Test-view/static/js/787.aeb0f137.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.e0305ebf.js"
+    "static/js/main.21f4a738.js"
   ]
 }
